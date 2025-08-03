@@ -14,7 +14,7 @@ def load_and_split_text(file_path):
     return paragraphs
 
 
-file_path = "C:/Users/Рабочая лошадка/OneDrive/Рабочий стол/python_lessons/resume.txt"
+file_path = "Resume.text"
 paragraphs = load_and_split_text(file_path)
 
 
